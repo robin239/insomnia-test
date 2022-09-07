@@ -1,0 +1,21 @@
+_id: req_52804eb4886048fcbf32143777bcc57d
+type: Request
+parentId: wrk_178b5330662d4d83bfcf1f8b977cf7e8
+modified: 1662538964667
+created: 1662538432757
+url: "{{baseUrl}}/api/oauth"
+name: OAuth create
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1662538432757
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
